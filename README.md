@@ -1,6 +1,6 @@
 # Naver Map Open API Example
 
-Search address and get map view. especially in Korean.
+Search address and get map view. especially in Korea.
 
 ### Naver Map API
   - URL: http://developer.naver.com/wiki/pages/MapAPI
