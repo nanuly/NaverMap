@@ -10,5 +10,5 @@ Search address and get map view. especially in Korean.
 
 ### Usage
   * Open frontend.html with your web browser
-  * Input address in the input box
+  * Input address value where you want to get map in the input box
   * Click 'Find place' button
