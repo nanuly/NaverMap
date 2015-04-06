@@ -1,6 +1,9 @@
-# Naver map open api example
+# Naver Map Open API Example
 
-## Naver Map API
+Location search and map view
+
+### Naver Map API
   - URL: http://developer.naver.com/wiki/pages/MapAPI
   
-  
+### Usage
+
